@@ -19,4 +19,5 @@ Um aplicativo simples para criar, organizar e gerenciar suas notas de forma prá
 
 1. Clone este repositório:
    ```bash
-   git clone
+   git clone https://github.com/GustavoDrumond-D/NoteFlow.git
+   ```
